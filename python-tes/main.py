@@ -9,7 +9,7 @@ def remove_duplicates(lst):
             seen.add(item)
     return result
 
-print(remove_duplicates([1, 2, 3, 2, 4, 1, 5]))
+print(remove_duplicates([1, 2, 3, 2, 4, 1, 5]))  # Percobaan dengan hasil ekspektasi output [1, 2, 3, 4, 5]
 
 class TestRemoveDuplicates(unittest.TestCase):
     
