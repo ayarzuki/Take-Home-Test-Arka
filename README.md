@@ -1,4 +1,6 @@
 # Jalankan program
+### Buat Database
+Jalankan file sql pada folder sql_db untuk membuat table berkaitan project ini pada database
 ### Inisialisasi NPM Javascript
 ```
 npm init -y
